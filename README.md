@@ -1,6 +1,6 @@
-# Hiking trails Swiss National Park
+# Hiking trails NWTF Hunting Heritage Center
 
-This application displays the hiking trails in the [Swiss National Park](http://www.nationalpark.ch/en/). The Swiss National Park is the most highly preserved area in Switzerland and it is a beloved place to go hiking.
+This application displays the hiking trails at the [National Wild Turkey Federation Hunting Heritage Center](http://www.nwtf.org/about/hunting-heritage-center).
 
 [View it live](https://esri.github.io/hiking-trails-app)
 
